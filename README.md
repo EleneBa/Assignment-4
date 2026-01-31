@@ -156,15 +156,17 @@ Outputs generated:
 cnn_ddos.pt – trained model weights
 
 metrics.txt – evaluation summary
+<img width="1900" height="1025" alt="image" src="https://github.com/user-attachments/assets/2c3ae30e-481f-4f60-bc2f-4b4e132169ec" />
+
 
 
 8. Execution
 
 The full pipeline can be executed using:
-
 python src/run_pipeline.py
-
 or step-by-step for debugging and validation.
+
+
 
 
 9. Assignment 4 Conclusion
